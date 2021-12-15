@@ -25,6 +25,6 @@ python3 setup.py install
 
 echo "\e[31mGit Cloning Twitter Scraper Tool...\e[0m"
 
-git clone https://github.com/AVG4/Twitter-Scraper-Pull-Down-Menu/blob/main/twitterscrape.sh
+git clone https://github.com/AVG4/Twitter-Scraper-Tool/blob/main/twitterscrape.sh
 
 bash twitterscrape.sh
